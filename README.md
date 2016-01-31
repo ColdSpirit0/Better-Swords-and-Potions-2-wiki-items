@@ -1,7 +1,9 @@
 # Better Swords & Potions 2 wiki items
 
 ## What it do
-Items on workers pages looks better.
+Items on workers pages looks better:
+
+![Before - after](https://www.dropbox.com/s/lk2ynx764d7baqe/sp2-before-after.png?dl=1)
 
 ## How to install
 * **If you use Mozilla Firefox**
