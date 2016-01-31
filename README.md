@@ -7,9 +7,11 @@ Items on workers pages looks better:
 
 ## How to install
 * **If you use Mozilla Firefox**
-  + Install Greasemonkey addon ([link](https://addons.mozilla.org/ru/firefox/addon/greasemonkey/)).
-  + Open script ([link](https://github.com/ColdSpirit0/Better-Swords-and-Potions-2-wiki-items/raw/master/script.user.js)) and follow instructions.
+  + Install [Greasemonkey](https://addons.mozilla.org/ru/firefox/addon/greasemonkey/) addon.
+  + Open [script](https://github.com/ColdSpirit0/Better-Swords-and-Potions-2-wiki-items/raw/master/script.user.js) and follow instructions.
+  + Open [Shopkeeper](http://www.edgebee.com/wiki/index.php?title=Shopkeeper) or [other worker](http://www.edgebee.com/wiki/index.php?title=Swords_%26_Potions_2#Workers) page and look at result.
 
 * **If you use Google Chrome or Safari**
-  + Install Tampermonkey addon ([link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo))
-  + Open script ([link](https://github.com/ColdSpirit0/Better-Swords-and-Potions-2-wiki-items/raw/master/script.user.js)) and follow instructions.
+  + Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) addon.
+  + Open [script](https://github.com/ColdSpirit0/Better-Swords-and-Potions-2-wiki-items/raw/master/script.user.js) and follow instructions.
+  + Open [Shopkeeper](http://www.edgebee.com/wiki/index.php?title=Shopkeeper) or [other worker](http://www.edgebee.com/wiki/index.php?title=Swords_%26_Potions_2#Workers) page and look at result.
