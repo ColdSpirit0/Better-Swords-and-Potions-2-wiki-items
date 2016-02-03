@@ -12,6 +12,6 @@ Items on workers pages looks better:
   + Open [Shopkeeper](http://www.edgebee.com/wiki/index.php?title=Shopkeeper) or [other worker](http://www.edgebee.com/wiki/index.php?title=Swords_%26_Potions_2#Workers) page and look at result.
 
 * **If you use Google Chrome or Safari**
-  + Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) addon.
+  + Install [Tampermonkey](https://tampermonkey.net/) addon.
   + Open [script](https://github.com/ColdSpirit0/Better-Swords-and-Potions-2-wiki-items/raw/master/script.user.js) and follow instructions.
   + Open [Shopkeeper](http://www.edgebee.com/wiki/index.php?title=Shopkeeper) or [other worker](http://www.edgebee.com/wiki/index.php?title=Swords_%26_Potions_2#Workers) page and look at result.
